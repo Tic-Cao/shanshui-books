@@ -903,7 +903,7 @@ page = f'''<!doctype html>
 '''
 
 OUT.parent.mkdir(parents=True, exist_ok=True)
-OUT.write_text(page, encoding="utf-8")
+OUT.write_text(page, encoding="utf-8", newline="\n")  # 仓库里统一 LF
 
 print("WROTE", OUT, OUT.stat().st_size, "bytes")
 print("front", counts["front"], "back", counts["back"])
