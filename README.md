@@ -28,14 +28,14 @@
 
 - **在 GitHub 上直接读**：点上面任意一本的“全书目录”，每篇是独立的 Markdown，篇末有上一篇、下一篇和回目录的跳转。
 - **下载一本读**：[dist/shanshui-youxin.html](dist/shanshui-youxin.html) 与 [dist/shanshui-youhui.html](dist/shanshui-youhui.html)，各自一个文件，封面与六卷插图都在里面，双击就能在浏览器打开，也能拷进手机。夜间模式、三档字号、目录抽屉、进度条都在，不需要联网。
-- **开个网页读**：仓库设置里 Pages 选 Deploy from a branch，目录选 `/dist`，就会得到 `https://<用户名>.github.io/<仓库名>/`，落地页是 [dist/index.html](dist/index.html)。
+- **开个网页读**：Pages 已开，站点是 <https://tic-cao.github.io/shanshui-books/>，落地页是 [dist/index.html](dist/index.html)。要自己重开一遍：仓库设置里 Pages 选 Deploy from a branch，目录选 `/dist`。
 
 ## 仓库结构
 
 ```
 books/shanshui-youxin/    《山水有信》：manifest.json + content/（序 + 48 篇 + 后记）+ assets/
 books/shanshui-youhui/    《山水有回信》：同一套结构，正文 54 篇
-dist/                     两本书的单文件 HTML 与一个落地页，给 Pages 用
+dist/                     两本书的单文件 HTML、落地页与它用的两张封面，给 Pages 用
 tools/                    排版脚本、体例检查、链接检查
 docs/                     写作规矩、校对记录、名字与插图说明；drafts/ 是当时的备忘与扫描日志
 ```
