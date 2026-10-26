@@ -38,7 +38,7 @@ books/shanshui-youhui/    《山水有回信》：同一套结构，正文 54 �
 index.html                落地页，也是 Pages 的首页
 dist/                     两本书的单文件 HTML，给 Pages 和下载用
 tools/                    排版脚本、体例检查、链接检查
-docs/                     写作规矩、校对记录、名字与插图说明；drafts/ 是当时的备忘与扫描日志
+docs/                     写作规矩、校对记录、名字与插图说明
 .nojekyll                 让 Pages 原样发布，不拿 Jekyll 加工 Markdown
 ```
 
@@ -60,8 +60,7 @@ python tools/check_links.py            # 目录页与 README 的链接是否都�
 
 [docs/writing-notes.md](docs/writing-notes.md)（写作规矩与全书口径）·
 [docs/qa-report.md](docs/qa-report.md)（校对记录，包括通读时抓出的十一处硬伤）·
-[docs/names-and-images.md](docs/names-and-images.md)（化名、细节改动与插图流程）·
-[docs/drafts/](docs/drafts/)（开工前的备忘、分卷提纲、当时的扫描日志，原样放着）
+[docs/names-and-images.md](docs/names-and-images.md)（化名、细节改动与插图流程）
 
 ## 关于名字、插图与版权
 
