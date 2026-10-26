@@ -1,0 +1,359 @@
+{
+  "book": {
+    "title": "山水有回信",
+    "subtitle": "写给往后的日子",
+    "author": "林深",
+    "category": "散文 · 随笔 · 纪实 · 续本",
+    "edition": "私人印本 · 2027",
+    "tagline": "第一本书寄出以后，回信一封一封到了。五十四篇文字，写回信、换季、院子、家里人，以及一段不着急的往后。",
+    "target_characters": 244000
+  },
+  "front": {
+    "title": "序：先做一个收信的人",
+    "file": "content/front/序-先做一个收信的人.md",
+    "target": 2400
+  },
+  "volumes": [
+    {
+      "id": 1,
+      "title": "回信",
+      "latin": "THE REPLY",
+      "epigraph": "一封寄出去的信，要走完它自己的路。",
+      "image": "assets/images/vol1.jpg",
+      "image_alt": "纸色的桌面上摊着信纸、钢笔与几只旧信封",
+      "image_caption": "卷一插图 · 摊开的信纸",
+      "essays": [
+        {
+          "id": "1-01",
+          "title": "书寄出去以后",
+          "file": "content/vol1/01-书寄出去以后.md"
+        },
+        {
+          "id": "1-02",
+          "title": "第一封回信",
+          "file": "content/vol1/02-第一封回信.md"
+        },
+        {
+          "id": "1-03",
+          "title": "读者的字",
+          "file": "content/vol1/03-读者的字.md"
+        },
+        {
+          "id": "1-04",
+          "title": "旧地址",
+          "file": "content/vol1/04-旧地址.md"
+        },
+        {
+          "id": "1-05",
+          "title": "电话里的空白",
+          "file": "content/vol1/05-电话里的空白.md"
+        },
+        {
+          "id": "1-06",
+          "title": "邮箱里的草稿",
+          "file": "content/vol1/06-邮箱里的草稿.md"
+        },
+        {
+          "id": "1-07",
+          "title": "一张明信片",
+          "file": "content/vol1/07-一张明信片.md"
+        },
+        {
+          "id": "1-08",
+          "title": "压在书里的信",
+          "file": "content/vol1/08-压在书里的信.md"
+        },
+        {
+          "id": "1-09",
+          "title": "回信这件事",
+          "file": "content/vol1/09-回信这件事.md"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "换季",
+      "latin": "CHANGING SEASONS",
+      "epigraph": "身体比日历更早知道换季。",
+      "image": "assets/images/vol2.jpg",
+      "image_alt": "清晨的窗边，一双跑鞋、一只水杯和量血压的旧仪器",
+      "image_caption": "卷二插图 · 换季的清晨",
+      "essays": [
+        {
+          "id": "2-01",
+          "title": "体检报告上的箭头",
+          "file": "content/vol2/01-体检报告上的箭头.md"
+        },
+        {
+          "id": "2-02",
+          "title": "早上的十分钟",
+          "file": "content/vol2/02-早上的十分钟.md"
+        },
+        {
+          "id": "2-03",
+          "title": "代码审查",
+          "file": "content/vol2/03-代码审查.md"
+        },
+        {
+          "id": "2-04",
+          "title": "一次上线",
+          "file": "content/vol2/04-一次上线.md"
+        },
+        {
+          "id": "2-05",
+          "title": "走路去上班",
+          "file": "content/vol2/05-走路去上班.md"
+        },
+        {
+          "id": "2-06",
+          "title": "膝盖",
+          "file": "content/vol2/06-膝盖.md"
+        },
+        {
+          "id": "2-07",
+          "title": "牙",
+          "file": "content/vol2/07-牙.md"
+        },
+        {
+          "id": "2-08",
+          "title": "睡不着的半夜",
+          "file": "content/vol2/08-睡不着的半夜.md"
+        },
+        {
+          "id": "2-09",
+          "title": "身体记得",
+          "file": "content/vol2/09-身体记得.md"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "城的里子",
+      "latin": "THE CITY INSIDE",
+      "epigraph": "一座城的脸面在街上，里子在巷子里。",
+      "image": "assets/images/vol3.jpg",
+      "image_alt": "老巷深处的院墙、脚手架与一棵桂花树",
+      "image_caption": "卷三插图 · 院墙与树",
+      "essays": [
+        {
+          "id": "3-01",
+          "title": "院子要修了",
+          "file": "content/vol3/01-院子要修了.md"
+        },
+        {
+          "id": "3-02",
+          "title": "量房子",
+          "file": "content/vol3/02-量房子.md"
+        },
+        {
+          "id": "3-03",
+          "title": "树要挪走",
+          "file": "content/vol3/03-树要挪走.md"
+        },
+        {
+          "id": "3-04",
+          "title": "搬走的邻居",
+          "file": "content/vol3/04-搬走的邻居.md"
+        },
+        {
+          "id": "3-05",
+          "title": "旧货市场",
+          "file": "content/vol3/05-旧货市场.md"
+        },
+        {
+          "id": "3-06",
+          "title": "桥下的球场",
+          "file": "content/vol3/06-桥下的球场.md"
+        },
+        {
+          "id": "3-07",
+          "title": "一条街的背面",
+          "file": "content/vol3/07-一条街的背面.md"
+        },
+        {
+          "id": "3-08",
+          "title": "回到院子里",
+          "file": "content/vol3/08-回到院子里.md"
+        },
+        {
+          "id": "3-09",
+          "title": "城里的树",
+          "file": "content/vol3/09-城里的树.md"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "家里的人",
+      "latin": "THOSE AT HOME",
+      "epigraph": "家里人不说想念，只说吃饭。",
+      "image": "assets/images/vol4.jpg",
+      "image_alt": "老屋的灶台、竹篮与一束从窗格落下的光",
+      "image_caption": "卷四插图 · 老屋的灶",
+      "essays": [
+        {
+          "id": "4-01",
+          "title": "母亲的眼镜",
+          "file": "content/vol4/01-母亲的眼镜.md"
+        },
+        {
+          "id": "4-02",
+          "title": "表停了",
+          "file": "content/vol4/02-表停了.md"
+        },
+        {
+          "id": "4-03",
+          "title": "老屋的灶",
+          "file": "content/vol4/03-老屋的灶.md"
+        },
+        {
+          "id": "4-04",
+          "title": "一张全家福",
+          "file": "content/vol4/04-一张全家福.md"
+        },
+        {
+          "id": "4-05",
+          "title": "叔叔的果园",
+          "file": "content/vol4/05-叔叔的果园.md"
+        },
+        {
+          "id": "4-06",
+          "title": "回门",
+          "file": "content/vol4/06-回门.md"
+        },
+        {
+          "id": "4-07",
+          "title": "清明",
+          "file": "content/vol4/07-清明.md"
+        },
+        {
+          "id": "4-08",
+          "title": "送父亲回家",
+          "file": "content/vol4/08-送父亲回家.md"
+        },
+        {
+          "id": "4-09",
+          "title": "家里的灯",
+          "file": "content/vol4/09-家里的灯.md"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "借来的名字",
+      "latin": "BORROWED NAMES",
+      "epigraph": "他们把名字借给我，我把日子还给他们。",
+      "image": "assets/images/vol5.jpg",
+      "image_alt": "街边小铺的午后，缝纫机、伞骨与一杯凉茶",
+      "image_caption": "卷五插图 · 街边的小铺",
+      "essays": [
+        {
+          "id": "5-01",
+          "title": "老金的伞铺",
+          "file": "content/vol5/01-老金的伞铺.md"
+        },
+        {
+          "id": "5-02",
+          "title": "缝纫机的下午",
+          "file": "content/vol5/02-缝纫机的下午.md"
+        },
+        {
+          "id": "5-03",
+          "title": "送奶的人",
+          "file": "content/vol5/03-送奶的人.md"
+        },
+        {
+          "id": "5-04",
+          "title": "夜班公交",
+          "file": "content/vol5/04-夜班公交.md"
+        },
+        {
+          "id": "5-05",
+          "title": "收摊以后",
+          "file": "content/vol5/05-收摊以后.md"
+        },
+        {
+          "id": "5-06",
+          "title": "修表铺",
+          "file": "content/vol5/06-修表铺.md"
+        },
+        {
+          "id": "5-07",
+          "title": "打印店",
+          "file": "content/vol5/07-打印店.md"
+        },
+        {
+          "id": "5-08",
+          "title": "收废品的人",
+          "file": "content/vol5/08-收废品的人.md"
+        },
+        {
+          "id": "5-09",
+          "title": "他们把名字借给我",
+          "file": "content/vol5/09-他们把名字借给我.md"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "往后的日子",
+      "latin": "THE DAYS AHEAD",
+      "epigraph": "往后不是远方，是明天早上。",
+      "image": "assets/images/vol6.jpg",
+      "image_alt": "冬日的河边，两只茶杯、一条围巾与远处的桥",
+      "image_caption": "卷六插图 · 河边的冬日",
+      "essays": [
+        {
+          "id": "6-01",
+          "title": "湖州来的信",
+          "file": "content/vol6/01-湖州来的信.md"
+        },
+        {
+          "id": "6-02",
+          "title": "第一次见面",
+          "file": "content/vol6/02-第一次见面.md"
+        },
+        {
+          "id": "6-03",
+          "title": "两碗面",
+          "file": "content/vol6/03-两碗面.md"
+        },
+        {
+          "id": "6-04",
+          "title": "她的母亲",
+          "file": "content/vol6/04-她的母亲.md"
+        },
+        {
+          "id": "6-05",
+          "title": "不着急",
+          "file": "content/vol6/05-不着急.md"
+        },
+        {
+          "id": "6-06",
+          "title": "第二本书",
+          "file": "content/vol6/06-第二本书.md"
+        },
+        {
+          "id": "6-07",
+          "title": "写给四十五岁",
+          "file": "content/vol6/07-写给四十五岁.md"
+        },
+        {
+          "id": "6-08",
+          "title": "冬至",
+          "file": "content/vol6/08-冬至.md"
+        },
+        {
+          "id": "6-09",
+          "title": "山水有回信",
+          "file": "content/vol6/09-山水有回信.md"
+        }
+      ]
+    }
+  ],
+  "back": {
+    "title": "后记：灯还亮着",
+    "file": "content/back/后记-灯还亮着.md",
+    "target": 2300
+  }
+}
